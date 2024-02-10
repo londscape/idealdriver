@@ -12,6 +12,12 @@
   - Distance
   - Team
 - Aimbot
-- C4 Info
-- 
+  - Aimbot circles
+  - Aimbot filed circles
+  - Aimbot fov
+  -
+- Triggerbot
+  - Triggerbot radius
+
+
 Build `Release x64`
